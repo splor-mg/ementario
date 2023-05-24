@@ -3,9 +3,13 @@ hist:
     desc: Recursos Diretamente Arrecadados Vinculados
     valid_from: 2021-06
     valid_to: 2022-01
+  - cod: 61
+    desc: Recursos Diretamente Arrecadados Vinculados
+    valid_from: 2024-01
+    valid_to: 9999-12
 
 mappings:
   - from: 61
     to: 20
     valid_from: 2022-01
-    valid_to: 9999-12
+    valid_to: 2024-01
