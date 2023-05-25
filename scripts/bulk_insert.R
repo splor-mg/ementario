@@ -16,6 +16,8 @@ fontes <- rbind(exec_rec, loa_rec)
 fontes <- fontes[, .(valid_from = min(valid_ref), valid_to = max(valid_ref)), by = .(FONTE_COD, FONTE_DESC)][order(FONTE_COD)]
 names(fontes) <- c("cod", "desc", "dt_inicio_vigencia", "dt_fim_vigencia")
 
+fontes[dt_fim_vigencia == "2023-00", dt_fim_vigencia := "9999-12"]
+
 fontes$cod <- as.integer(fontes$cod)
 
 fontes |>
