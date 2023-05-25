@@ -1,15 +1,4 @@
-hist:
-  - cod: 60
-    desc: Recursos Diretamente Arrecadados
-    valid_from: 2002-01
-    valid_to: 2022-01
-
-mappings:
-  - from: 60
-    to: 61
-    valid_from: 2021-06
-    valid_to: 9999-12
-  - from: 60
-    to: 10
-    valid_from: 2022-01
-    valid_to: 9999-12
+- cod: 60
+  desc: Recursos Diretamente Arrecadados
+  valid_from: 2002-01
+  valid_to: 2022-01
