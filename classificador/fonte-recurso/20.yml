@@ -1,4 +1,4 @@
 - cod: 20
   desc: Recursos Vinculados
-  valid_from: 2002-01
-  valid_to: 9999-12
+  dt_inicio_vigencia: 2002-01
+  dt_fim_vigencia: 9999-12

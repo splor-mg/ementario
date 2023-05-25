@@ -1,8 +1,8 @@
 - cod: 61
   desc: Recursos Diretamente Arrecadados Vinculados
-  valid_from: 2021-06
-  valid_to: 2022-01
+  dt_inicio_vigencia: 2021-06
+  dt_fim_vigencia: 2022-01
 - cod: 61
   desc: Recursos Diretamente Arrecadados Vinculados
-  valid_from: 2024-01
-  valid_to: 9999-12
+  dt_inicio_vigencia: 2024-01
+  dt_fim_vigencia: 9999-12

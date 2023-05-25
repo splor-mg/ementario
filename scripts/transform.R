@@ -9,4 +9,4 @@ data <- list.files(path = "classificador/fonte-recurso/", full.names = TRUE) |>
         data.table::rbindlist()
 
 data.table::fwrite(data, "data/fonte-recurso-hist.csv")
-data.table::fwrite(data[data$valid_to == "9999-12"], "data/fonte-recurso.csv")
+data.table::fwrite(data[data$dt_fim_vigencia == "9999-12"], "data/fonte-recurso.csv")

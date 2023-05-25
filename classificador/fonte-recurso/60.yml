@@ -1,4 +1,4 @@
 - cod: 60
   desc: Recursos Diretamente Arrecadados
-  valid_from: 2002-01
-  valid_to: 2022-01
+  dt_inicio_vigencia: 2002-01
+  dt_fim_vigencia: 2022-01
