@@ -20,6 +20,11 @@ fontes[dt_fim_vigencia == "2023-00", dt_fim_vigencia := "9999-12"]
 
 fontes$cod <- as.integer(fontes$cod)
 
+fontes <- data.frame(cod = c(10L, 20L, 60L), 
+                     desc = c("Recursos Ordinarios", "Recursos Vinculados", "Recursos Diretamente Arrecadados"),
+                     dt_inicio_vigencia = "2002-00",
+                     dt_fim_vigencia = "9999-12")
+
 fontes |>
   dplyr::group_by(cod) |>
   dplyr::group_split() |>
