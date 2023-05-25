@@ -4,7 +4,7 @@ read_yaml <- function(filepath, property) {
   data
 }
 
-data <- list.files(path = "content/fonte-recurso/", full.names = TRUE) |> 
+data <- list.files(path = "classificador/fonte-recurso/", full.names = TRUE) |> 
         purrr::map(read_yaml) |> 
         data.table::rbindlist()
 
