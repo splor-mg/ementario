@@ -2,9 +2,6 @@ resources:
   - name: exec_desp
     path: exec_desp.xlsx
     format: xlsx
-    dialect:
-      excel:
-        sheet: Relatório1
     schema:
       fields:
         - name: Ano de Exercício
@@ -13,7 +10,7 @@ resources:
           type: string
         - name: Unidade Orçamentária - Código
           type: integer
-        - $ref: dev/classificador/fonteRecurso/cod.json
+        - $ref: 2023-00/classificador/fonteRecurso/cod.json
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
