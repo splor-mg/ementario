@@ -17,7 +17,5 @@ resources:
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - package: dev/datapackage.json
-          ForeignKey: 
-            $ref: dev/classificador/fonteRecurso/foreign_key.json
+        - $ref: main/classificador/fonteRecurso/foreign_key.json
           

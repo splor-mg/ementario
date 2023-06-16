@@ -3,3 +3,4 @@ reference:
   fields:
     - cod
   resource: fonte_recurso
+  package: https://raw.githubusercontent.com/splor-mg/ementario/main/datapackage.json
