@@ -1,0 +1,10 @@
+{
+  "fields": "uo_cod",
+  "reference": {
+    "fields": [
+      "cod"
+    ],
+    "resource": "unidade_orcamentaria",
+    "package": "https://raw.githubusercontent.com/splor-mg/ementario/main/datapackage.json"
+  }
+}

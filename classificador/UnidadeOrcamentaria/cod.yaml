@@ -1,0 +1,6 @@
+name: uo_cod
+title: Unidade Orçamentária - Código
+type: integer
+constraints:
+  enum:
+    - 1011

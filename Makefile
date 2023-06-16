@@ -1,6 +1,11 @@
-all: fonte
+DIRECTORIES = fonteRecurso unidadeOrcamentaria
 
-fonte: classificador/fonteRecurso/dist/cod.json classificador/fonteRecurso/dist/desc.json classificador/fonteRecurso/dist/foreign_key.json classificador/fonteRecurso/dist/data.json
+JSON_TARGETS = cod.json desc.json foreign_key.json data.json
 
-classificador/fonteRecurso/dist/%.json: classificador/fonteRecurso/%.yaml
-	cat $^ | yq -o=json > $@
+all: $(DIRECTORIES)
+
+$(DIRECTORIES):
+	$(foreach json,$(JSON_TARGETS),\
+		cat classificador/$@/$(json:%.json=%.yaml) | yq -o=json > classificador/$@/dist/$(json);)
+
+.PHONY: all $(DIRECTORIES)

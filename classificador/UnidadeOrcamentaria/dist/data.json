@@ -1,0 +1,1031 @@
+[
+  {
+    "cod": 1011,
+    "seq": 1,
+    "desc": "ALEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1011,
+    "seq": 2,
+    "desc": "ALMG",
+    "valid_from": "2019-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1021,
+    "seq": 1,
+    "desc": "TCEMG",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1031,
+    "seq": 1,
+    "desc": "TJMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1041,
+    "seq": 1,
+    "desc": "TAMG",
+    "valid_from": "2002-02",
+    "valid_to": "2005-06"
+  },
+  {
+    "cod": 1051,
+    "seq": 1,
+    "desc": "TJMMG",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1071,
+    "seq": 1,
+    "desc": "GABINETE MILITAR",
+    "valid_from": "2002-04",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1081,
+    "seq": 1,
+    "desc": "AGE",
+    "valid_from": "2004-04",
+    "valid_to": "2004-04"
+  },
+  {
+    "cod": 1091,
+    "seq": 1,
+    "desc": "PGJ",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1091,
+    "seq": 2,
+    "desc": "MPMG",
+    "valid_from": "2019-01",
+    "valid_to": "2020-12"
+  },
+  {
+    "cod": 1101,
+    "seq": 1,
+    "desc": "OGE",
+    "valid_from": "2005-07",
+    "valid_to": "2010-11"
+  },
+  {
+    "cod": 1171,
+    "seq": 1,
+    "desc": "SERHA",
+    "valid_from": "2002-12",
+    "valid_to": "2002-12"
+  },
+  {
+    "cod": 1191,
+    "seq": 1,
+    "desc": "SEF",
+    "valid_from": "2002-07",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1201,
+    "seq": 1,
+    "desc": "SEPLAN",
+    "valid_from": "2002-02",
+    "valid_to": "2002-12"
+  },
+  {
+    "cod": 1211,
+    "seq": 1,
+    "desc": "SEJ",
+    "valid_from": "2002-02",
+    "valid_to": "2003-12"
+  },
+  {
+    "cod": 1221,
+    "seq": 1,
+    "desc": "SECTES",
+    "valid_from": "2002-01",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 1221,
+    "seq": 2,
+    "desc": "SEDECTES",
+    "valid_from": "2017-02",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1221,
+    "seq": 3,
+    "desc": "SEDE",
+    "valid_from": "2019-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1231,
+    "seq": 1,
+    "desc": "SEAPA",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1241,
+    "seq": 1,
+    "desc": "SESP",
+    "valid_from": "2002-04",
+    "valid_to": "2002-12"
+  },
+  {
+    "cod": 1251,
+    "seq": 1,
+    "desc": "PMMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1261,
+    "seq": 1,
+    "desc": "SEE",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1271,
+    "seq": 1,
+    "desc": "SEC",
+    "valid_from": "2002-01",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1271,
+    "seq": 2,
+    "desc": "SECULT",
+    "valid_from": "2019-06",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1281,
+    "seq": 1,
+    "desc": "SEC.ESPORTES",
+    "valid_from": "2002-03",
+    "valid_to": "2003-02"
+  },
+  {
+    "cod": 1291,
+    "seq": 1,
+    "desc": "SME",
+    "valid_from": "2002-05",
+    "valid_to": "2002-12"
+  },
+  {
+    "cod": 1301,
+    "seq": 1,
+    "desc": "SETOP",
+    "valid_from": "2002-03",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1301,
+    "seq": 2,
+    "desc": "SEINFRA",
+    "valid_from": "2019-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1341,
+    "seq": 1,
+    "desc": "CAAPD",
+    "valid_from": "2002-07",
+    "valid_to": "2004-12"
+  },
+  {
+    "cod": 1371,
+    "seq": 1,
+    "desc": "SEMAD",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1381,
+    "seq": 1,
+    "desc": "SETASCAD",
+    "valid_from": "2002-03",
+    "valid_to": "2003-10"
+  },
+  {
+    "cod": 1401,
+    "seq": 1,
+    "desc": "CBMMG",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1411,
+    "seq": 1,
+    "desc": "SETUR",
+    "valid_from": "2002-02",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1411,
+    "seq": 2,
+    "desc": "SETES",
+    "valid_from": "2014-02",
+    "valid_to": "2014-12"
+  },
+  {
+    "cod": 1441,
+    "seq": 1,
+    "desc": "DEF PUB",
+    "valid_from": "2005-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1451,
+    "seq": 1,
+    "desc": "SEDS",
+    "valid_from": "2003-04",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 1451,
+    "seq": 2,
+    "desc": "SEAP",
+    "valid_from": "2017-01",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1451,
+    "seq": 3,
+    "desc": "SEJUSP",
+    "valid_from": "2019-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1461,
+    "seq": 1,
+    "desc": "SEDE",
+    "valid_from": "2005-05",
+    "valid_to": "2014-03"
+  },
+  {
+    "cod": 1471,
+    "seq": 1,
+    "desc": "SEDRU",
+    "valid_from": "2003-08",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 1471,
+    "seq": 2,
+    "desc": "SECIR",
+    "valid_from": "2017-01",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1481,
+    "seq": 1,
+    "desc": "SEDESE",
+    "valid_from": "2003-04",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1491,
+    "seq": 1,
+    "desc": "SEGOV",
+    "valid_from": "2004-01",
+    "valid_to": "2015-08"
+  },
+  {
+    "cod": 1501,
+    "seq": 1,
+    "desc": "SEPLAG",
+    "valid_from": "2005-10",
+    "valid_to": "2021-11"
+  },
+  {
+    "cod": 1511,
+    "seq": 1,
+    "desc": "PCMG",
+    "valid_from": "2003-05",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1531,
+    "seq": 1,
+    "desc": "SEEJ",
+    "valid_from": "2007-07",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 1541,
+    "seq": 1,
+    "desc": "ESP MG",
+    "valid_from": "2007-07",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 1581,
+    "seq": 1,
+    "desc": "SETE",
+    "valid_from": "2011-05",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 1591,
+    "seq": 1,
+    "desc": "SEDVAN",
+    "valid_from": "2012-08",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 1591,
+    "seq": 2,
+    "desc": "SEDINOR",
+    "valid_from": "2014-02",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1601,
+    "seq": 1,
+    "desc": "EPE",
+    "valid_from": "2012-08",
+    "valid_to": "2014-08"
+  },
+  {
+    "cod": 1631,
+    "seq": 1,
+    "desc": "SEC. GERAL",
+    "valid_from": "2016-12",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1641,
+    "seq": 1,
+    "desc": "SEDA",
+    "valid_from": "2015-10",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1651,
+    "seq": 1,
+    "desc": "SEDPAC",
+    "valid_from": "2015-10",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1671,
+    "seq": 1,
+    "desc": "SEESP",
+    "valid_from": "2015-06",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1691,
+    "seq": 1,
+    "desc": "SESP",
+    "valid_from": "2017-04",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 1701,
+    "seq": 1,
+    "desc": "SEEDIF",
+    "valid_from": "2018-12",
+    "valid_to": "2018-12"
+  },
+  {
+    "cod": 1911,
+    "seq": 1,
+    "desc": "EGE - SEF",
+    "valid_from": "2002-02",
+    "valid_to": "2015-11"
+  },
+  {
+    "cod": 1915,
+    "seq": 1,
+    "desc": "TRANSF EMPRESAS",
+    "valid_from": "2004-12",
+    "valid_to": "2008-12"
+  },
+  {
+    "cod": 1921,
+    "seq": 1,
+    "desc": "SEPLAN/PROG.DIVERSOS",
+    "valid_from": "2002-12",
+    "valid_to": "2002-12"
+  },
+  {
+    "cod": 1941,
+    "seq": 1,
+    "desc": "EGE-SEPLAG",
+    "valid_from": "2005-05",
+    "valid_to": "2005-05"
+  },
+  {
+    "cod": 2011,
+    "seq": 1,
+    "desc": "IPSEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2041,
+    "seq": 1,
+    "desc": "LEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2061,
+    "seq": 1,
+    "desc": "FJP",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2071,
+    "seq": 1,
+    "desc": "FAPEMIG",
+    "valid_from": "2002-03",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2081,
+    "seq": 1,
+    "desc": "CETEC",
+    "valid_from": "2002-02",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 2091,
+    "seq": 1,
+    "desc": "FEAM",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2101,
+    "seq": 1,
+    "desc": "IEF",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2111,
+    "seq": 1,
+    "desc": "RURALMINAS",
+    "valid_from": "2002-02",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2121,
+    "seq": 1,
+    "desc": "IPSM",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2141,
+    "seq": 1,
+    "desc": "DEOP",
+    "valid_from": "2002-02",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2151,
+    "seq": 1,
+    "desc": "FHA",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2161,
+    "seq": 1,
+    "desc": "FUCAM",
+    "valid_from": "2002-03",
+    "valid_to": "2021-12"
+  },
+  {
+    "cod": 2171,
+    "seq": 1,
+    "desc": "FAOP",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2181,
+    "seq": 1,
+    "desc": "FCS",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2201,
+    "seq": 1,
+    "desc": "IEPHA",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2211,
+    "seq": 1,
+    "desc": "TV MINAS",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2231,
+    "seq": 1,
+    "desc": "ADEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 2241,
+    "seq": 1,
+    "desc": "IGAM",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2251,
+    "seq": 1,
+    "desc": "JUCEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2261,
+    "seq": 1,
+    "desc": "FUNED",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2271,
+    "seq": 1,
+    "desc": "FHEMIG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2281,
+    "seq": 1,
+    "desc": "UTRAMIG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2301,
+    "seq": 1,
+    "desc": "DER/MG",
+    "valid_from": "2002-01",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2301,
+    "seq": 2,
+    "desc": "DEER-MG",
+    "valid_from": "2017-01",
+    "valid_to": "2019-12"
+  },
+  {
+    "cod": 2301,
+    "seq": 3,
+    "desc": "DER-MG",
+    "valid_from": "2020-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2311,
+    "seq": 1,
+    "desc": "UNIMONTES",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2321,
+    "seq": 1,
+    "desc": "HEMOMINAS",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2331,
+    "seq": 1,
+    "desc": "IPEMMG",
+    "valid_from": "2002-04",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2351,
+    "seq": 1,
+    "desc": "UEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2361,
+    "seq": 1,
+    "desc": "IPLEMG",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2371,
+    "seq": 1,
+    "desc": "IMA",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2381,
+    "seq": 1,
+    "desc": "DETEL",
+    "valid_from": "2002-02",
+    "valid_to": "2018-11"
+  },
+  {
+    "cod": 2391,
+    "seq": 1,
+    "desc": "IO/MG",
+    "valid_from": "2002-01",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2401,
+    "seq": 1,
+    "desc": "IGA",
+    "valid_from": "2002-01",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 2401,
+    "seq": 2,
+    "desc": "IGTEC",
+    "valid_from": "2014-01",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2411,
+    "seq": 1,
+    "desc": "ITER",
+    "valid_from": "2002-03",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 2421,
+    "seq": 1,
+    "desc": "IDENE",
+    "valid_from": "2002-10",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2431,
+    "seq": 1,
+    "desc": "AGENCIA RMBH",
+    "valid_from": "2011-03",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2441,
+    "seq": 1,
+    "desc": "ARSAE -MG",
+    "valid_from": "2010-03",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 2451,
+    "seq": 1,
+    "desc": "HIDROEX",
+    "valid_from": "2011-12",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 2461,
+    "seq": 1,
+    "desc": "ARMVA",
+    "valid_from": "2012-07",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 3041,
+    "seq": 1,
+    "desc": "EMATER",
+    "valid_from": "2003-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 3051,
+    "seq": 1,
+    "desc": "EPAMIG",
+    "valid_from": "2003-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 3111,
+    "seq": 1,
+    "desc": "TURMINAS",
+    "valid_from": "2003-12",
+    "valid_to": "2004-05"
+  },
+  {
+    "cod": 3151,
+    "seq": 1,
+    "desc": "RADIO",
+    "valid_from": "2003-12",
+    "valid_to": "2016-12"
+  },
+  {
+    "cod": 3151,
+    "seq": 2,
+    "desc": "EMC",
+    "valid_from": "2017-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4011,
+    "seq": 1,
+    "desc": "FDMM",
+    "valid_from": "2002-10",
+    "valid_to": "2006-12"
+  },
+  {
+    "cod": 4031,
+    "seq": 1,
+    "desc": "FEPJ",
+    "valid_from": "2013-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4041,
+    "seq": 1,
+    "desc": "FUNDO JAIBA",
+    "valid_from": "2002-10",
+    "valid_to": "2017-11"
+  },
+  {
+    "cod": 4051,
+    "seq": 1,
+    "desc": "FIND",
+    "valid_from": "2002-10",
+    "valid_to": "2006-12"
+  },
+  {
+    "cod": 4061,
+    "seq": 1,
+    "desc": "FUNDO PRO-FLORESTA",
+    "valid_from": "2002-10",
+    "valid_to": "2017-11"
+  },
+  {
+    "cod": 4091,
+    "seq": 1,
+    "desc": "FIA",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4101,
+    "seq": 1,
+    "desc": "FEH",
+    "valid_from": "2002-02",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4111,
+    "seq": 1,
+    "desc": "FUNDESE",
+    "valid_from": "2002-09",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4121,
+    "seq": 1,
+    "desc": "FUNDHAB",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4141,
+    "seq": 1,
+    "desc": "FPE",
+    "valid_from": "2007-07",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4151,
+    "seq": 1,
+    "desc": "FASTUR",
+    "valid_from": "2010-12",
+    "valid_to": "2015-10"
+  },
+  {
+    "cod": 4171,
+    "seq": 1,
+    "desc": "FUNDERUR",
+    "valid_from": "2004-04",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4251,
+    "seq": 1,
+    "desc": "FEAS",
+    "valid_from": "2002-03",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4261,
+    "seq": 1,
+    "desc": "FUNDIEST",
+    "valid_from": "2002-10",
+    "valid_to": "2006-12"
+  },
+  {
+    "cod": 4291,
+    "seq": 1,
+    "desc": "FES",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4321,
+    "seq": 1,
+    "desc": "FUNPREN",
+    "valid_from": "2004-09",
+    "valid_to": "2006-12"
+  },
+  {
+    "cod": 4331,
+    "seq": 1,
+    "desc": "FDM",
+    "valid_from": "2009-09",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4341,
+    "seq": 1,
+    "desc": "FHIDRO",
+    "valid_from": "2010-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4381,
+    "seq": 1,
+    "desc": "FUNTRANS",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4421,
+    "seq": 1,
+    "desc": "FUNDIF",
+    "valid_from": "2004-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4431,
+    "seq": 1,
+    "desc": "FUNPEMG",
+    "valid_from": "2002-10",
+    "valid_to": "2013-12"
+  },
+  {
+    "cod": 4441,
+    "seq": 1,
+    "desc": "FUNEMP",
+    "valid_from": "2004-09",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4451,
+    "seq": 1,
+    "desc": "FEPDC",
+    "valid_from": "2004-08",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4461,
+    "seq": 1,
+    "desc": "FUNFIP",
+    "valid_from": "2004-02",
+    "valid_to": "2020-12"
+  },
+  {
+    "cod": 4471,
+    "seq": 1,
+    "desc": "FUNDOMAQ",
+    "valid_from": "2006-01",
+    "valid_to": "2007-12"
+  },
+  {
+    "cod": 4491,
+    "seq": 1,
+    "desc": "FEC",
+    "valid_from": "2007-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4501,
+    "seq": 1,
+    "desc": "FUNDO DE EQUALIZACAO",
+    "valid_from": "2009-12",
+    "valid_to": "2017-11"
+  },
+  {
+    "cod": 4511,
+    "seq": 1,
+    "desc": "FINDES",
+    "valid_from": "2007-01",
+    "valid_to": "2017-11"
+  },
+  {
+    "cod": 4541,
+    "seq": 1,
+    "desc": "FAHMEMG",
+    "valid_from": "2009-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4551,
+    "seq": 1,
+    "desc": "FUNAPEC",
+    "valid_from": "2010-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4571,
+    "seq": 1,
+    "desc": "FECIFIM",
+    "valid_from": "2014-07",
+    "valid_to": "2015-04"
+  },
+  {
+    "cod": 4601,
+    "seq": 1,
+    "desc": "FEI",
+    "valid_from": "2015-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4611,
+    "seq": 1,
+    "desc": "FUNCONTAS",
+    "valid_from": "2018-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4621,
+    "seq": 1,
+    "desc": "MG INVESTE",
+    "valid_from": "2018-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4631,
+    "seq": 1,
+    "desc": "FPP - MG",
+    "valid_from": "2018-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4661,
+    "seq": 1,
+    "desc": "FAIMG",
+    "valid_from": "2020-12",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4691,
+    "seq": 1,
+    "desc": "FESP-MG",
+    "valid_from": "2020-05",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4701,
+    "seq": 1,
+    "desc": "FET-MG",
+    "valid_from": "2022-03",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 4711,
+    "seq": 1,
+    "desc": "FFP - MG",
+    "valid_from": "2021-01",
+    "valid_to": "2022-12"
+  },
+  {
+    "cod": 9999,
+    "seq": 1,
+    "desc": "EMG - ADM. DIRETA",
+    "valid_from": "2002-01",
+    "valid_to": "2022-12"
+  }
+]

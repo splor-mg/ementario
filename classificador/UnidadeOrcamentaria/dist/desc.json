@@ -1,0 +1,10 @@
+{
+  "name": "uo_sigla",
+  "title": "Unidade Orçamentária - Descrição",
+  "type": "string",
+  "constraints": {
+    "enum": [
+      "ASSEMBLEIA"
+    ]
+  }
+}
