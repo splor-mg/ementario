@@ -1,6 +1,18 @@
 {
   "resources": [
     {
+      "name": "unidade_orcamentaria",
+      "type": "table",
+      "path": "classificador/unidadeOrcamentaria/dist/data.json",
+      "format": "json",
+      "dialect": {
+        "json": {
+          "keyed": true
+        }
+      },
+      "schema": "schemas/temporal.json"
+    },
+    {
       "name": "fonte_recurso",
       "type": "table",
       "path": "classificador/fonteRecurso/dist/data.json",
@@ -10,7 +22,6 @@
           "keyed": true
         }
       },
-      "encoding": "utf-8",
       "schema": "schemas/temporal.json"
     }
   ]
