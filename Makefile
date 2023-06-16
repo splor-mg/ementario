@@ -1,6 +1,6 @@
 all: fonte data/fonte-recurso-temporal.csv
 
-fonte: classificador/fonteRecurso/cod.json classificador/fonteRecurso/desc.json
+fonte: classificador/fonteRecurso/cod.json classificador/fonteRecurso/desc.json classificador/fonteRecurso/foreign_key.json
 
 classificador/fonteRecurso/%.json: classificador/fonteRecurso/%.yaml
 	cat $^ | yq -o=json > $@

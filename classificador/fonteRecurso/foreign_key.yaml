@@ -1,0 +1,6 @@
+fields: fonte_cod
+reference:
+  fields:
+    - cod
+  resource: fonte-recurso
+  package: https://raw.githubusercontent.com/splor-mg/ementario/dev/datapackage.json

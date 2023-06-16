@@ -17,9 +17,4 @@ resources:
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - fields: fonte_cod
-          reference:
-            fields:
-              - cod
-            resource: fonte-recurso
-            package: https://raw.githubusercontent.com/splor-mg/ementario/dev/datapackage.json
+        - $ref: https://raw.githubusercontent.com/splor-mg/ementario/dev/classificador/fonteRecurso/foreign_key.json
