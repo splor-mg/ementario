@@ -18,12 +18,18 @@ def time_to_decimal(time_str):
 
 def non_equi_join(tab1, tab2, field_tab1, field_tab2, new_column):
     for record1 in tab1:
+        matched = False
         for record2 in tab2:
             valid_from = time_to_decimal(record2['valid_from'])
             valid_to = time_to_decimal(record2['valid_to'])
             valid_ref = time_to_decimal(record1['valid_ref'])
             if record1[field_tab1] == record2[field_tab2] and valid_from <= valid_ref <= valid_to:
-                yield {**record1, f'{new_column}_desc': record2['desc']}  # merge dictionaries in Python 3.5+
+                yield {**record1, f'{new_column}_desc': record2['desc']}
+                matched = True
+                break  # we found a match, so we can stop looking in tab2 for this record
+        if not matched:
+            yield {**record1, f'{new_column}_desc': None}  # if no match was found in tab2, output the original record from tab1
+
 
 def enrich_resource(resource):
     data = resource.read_rows()
