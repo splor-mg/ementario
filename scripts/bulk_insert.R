@@ -23,5 +23,5 @@ fontes$cod <- as.integer(fontes$cod)
 fontes[, seq := seq_len(.N) , cod]
 setcolorder(fontes, c("cod", "seq", "desc", "valid_from", "valid_to"))
 
-write_yaml(fontes, "classificador/fonteRecurso/lookup.yaml", column.major = FALSE, indent.mapping.sequence = TRUE)
+write_yaml(fontes, "classificador/fonteRecurso/data.yaml", column.major = FALSE, indent.mapping.sequence = TRUE)
 

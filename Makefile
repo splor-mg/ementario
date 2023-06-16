@@ -5,5 +5,5 @@ fonte: classificador/fonteRecurso/cod.json classificador/fonteRecurso/desc.json 
 classificador/fonteRecurso/%.json: classificador/fonteRecurso/%.yaml
 	cat $^ | yq -o=json > $@
 
-data/fonte-recurso-temporal.csv: classificador/fonteRecurso/lookup.yaml
+data/fonte-recurso-temporal.csv: classificador/fonteRecurso/data.yaml
 	Rscript scripts/transform.R
