@@ -7,7 +7,7 @@ from decimal import Decimal
 def Package_dereference(path):
     with open(Path(path)) as fs:
         descriptor = yaml.safe_load(fs)
-    descriptor_deref = jsonref.replace_refs(descriptor)
+    descriptor_deref = jsonref.replace_refs(descriptor, base_uri='https://raw.githubusercontent.com/splor-mg/ementario')
     result = Package(descriptor_deref)
     return result
 

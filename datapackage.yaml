@@ -1,10 +1,7 @@
 resources:
   - name: exec_desp
-    path: exec_desp.xlsx
-    format: xlsx
-    dialect:
-      excel:
-        sheet: Relatório1
+    path: exec_desp.csv
+    format: csv
     schema:
       fields:
         - name: Ano de Exercício
@@ -13,8 +10,8 @@ resources:
           type: string
         - name: Unidade Orçamentária - Código
           type: integer
-        - $ref: https://raw.githubusercontent.com/splor-mg/ementario/dev/classificador/fonteRecurso/cod.json
+        - $ref: dev/classificador/fonteRecurso/cod.json
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - $ref: https://raw.githubusercontent.com/splor-mg/ementario/dev/classificador/fonteRecurso/foreign_key.json
+        - $ref: dev/classificador/fonteRecurso/foreign_key.json
