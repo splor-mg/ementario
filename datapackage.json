@@ -1,35 +1,11 @@
 {
   "resources": [
     {
-      "name": "fonte-recurso",
-      "path": "data/fonte-recurso-temporal.csv",
+      "name": "fonte_recurso",
+      "path": "data/fonte_recurso.csv",
       "format": "csv",
-      "mediatype": "text/csv",
       "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "cod",
-            "type": "integer"
-          },
-          {
-            "name": "seq",
-            "type": "integer"
-          },
-          {
-            "name": "desc",
-            "type": "string"
-          },
-          {
-            "name": "valid_from",
-            "type": "string"
-          },
-          {
-            "name": "valid_to",
-            "type": "string"
-          }
-        ]
-      }
+      "schema": "schemas/temporal.json"
     }
   ]
 }
