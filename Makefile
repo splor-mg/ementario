@@ -1,5 +1,4 @@
-transform:
-	Rscript scripts/transform.R
+fonte: classificador/fonteRecurso/cod.json
 
-insert:
-	Rscript scripts/bulk_insert.R
+classificador/fonteRecurso/%.json: classificador/fonteRecurso/%.yaml
+	cat $^ | yq -o=json > $@
