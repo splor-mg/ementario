@@ -2,5 +2,5 @@ fields: fonte_cod
 reference:
   fields:
     - cod
-  resource: fonte_recurso
+  resource: fonte
   package: https://raw.githubusercontent.com/splor-mg/ementario/main/datapackage.json

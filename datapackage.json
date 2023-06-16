@@ -1,7 +1,7 @@
 {
   "resources": [
     {
-      "name": "unidade_orcamentaria",
+      "name": "uo",
       "type": "table",
       "path": "classificador/unidadeOrcamentaria/dist/data.json",
       "format": "json",
@@ -13,7 +13,7 @@
       "schema": "schemas/temporal.json"
     },
     {
-      "name": "fonte_recurso",
+      "name": "fonte",
       "type": "table",
       "path": "classificador/fonteRecurso/dist/data.json",
       "format": "json",

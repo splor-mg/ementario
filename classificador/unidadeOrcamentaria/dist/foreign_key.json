@@ -4,7 +4,7 @@
     "fields": [
       "cod"
     ],
-    "resource": "unidade_orcamentaria",
+    "resource": "uo",
     "package": "https://raw.githubusercontent.com/splor-mg/ementario/main/datapackage.json"
   }
 }
