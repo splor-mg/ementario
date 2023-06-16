@@ -2,4 +2,4 @@ fields: fonte_cod
 reference:
   fields:
     - cod
-  resource: fonte-recurso
+  resource: fonte_recurso
