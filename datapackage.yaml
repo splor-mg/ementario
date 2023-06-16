@@ -13,5 +13,5 @@ resources:
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - $ref: main/classificador/unidadeOrcamentaria/dist/foreign_key.json
         - $ref: main/classificador/fonteRecurso/dist/foreign_key.json
+        - $ref: main/classificador/unidadeOrcamentaria/dist/foreign_key.json
