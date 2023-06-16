@@ -1,0 +1,567 @@
+- cod: 1
+  seq: 1
+  desc: CONVENIOS COM A UNIAO E SUAS ENTIDADES - EMENDAS INDIVIDUAIS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 2
+  seq: 1
+  desc: CONVENIOS COM A UNIAO E SUAS ENTIDADES - EMENDAS DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 3
+  seq: 1
+  desc: TRANSFERENCIAS DO FNDE VINCULADAS A EDUCACAO - EMENDAS INDIVIDUAIS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 4
+  seq: 1
+  desc: TRANSFERENCIAS DO FNDE VINCULADAS A EDUCACAO - EMENDAS DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 5
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A ASSISTENCIA SOCIAL - EMENDAS INDIVIDUAIS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 6
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A ASSISTENCIA SOCIAL - EMENDAS DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 9
+  seq: 1
+  desc: TERMOS DE AJUSTAMENTO, DOACOES CONTROLADAS POR INSTRUMENTO JURIDICO E CONGENERES
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 10
+  seq: 1
+  desc: RECURSOS ORDINARIOS
+  valid_from: 2002-00
+  valid_to: 2022-12
+- cod: 10
+  seq: 2
+  desc: RECURSOS ORDINARIOS - RECURSOS NAO VINCULADOS DE IMPOSTOS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 11
+  seq: 1
+  desc: RECURSOS DE DESVINCULACAO DE RECEITAS
+  valid_from: 2020-00
+  valid_to: 9999-12
+- cod: 12
+  seq: 1
+  desc: OPERACOES DE CREDITO CONTRATUAIS - SWAP
+  valid_from: 2010-00
+  valid_to: 9999-12
+- cod: 13
+  seq: 1
+  desc: FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA - FUNDEB - REGULARIZACAO
+    DE EXERCICIOS ANTE
+  valid_from: 2020-12
+  valid_to: 9999-12
+- cod: 15
+  seq: 1
+  desc: RECURSOS ORDINARIOS - OUTROS RECURSOS NAO VINCULADOS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 18
+  seq: 1
+  desc: AUXILIO FINANCEIRO PELA OUTORGA DE CREDITO TRIBUTARIO - ICMS ETANOL
+  valid_from: 2022-09
+  valid_to: 2022-12
+- cod: 20
+  seq: 1
+  desc: RECURSOS CONSTITUC.VINCULADOS AOS MUNICIPIOS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 21
+  seq: 1
+  desc: COTA ESTADUAL DO SALARIO EDUCACAO - QESE
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 22
+  seq: 1
+  desc: RECURSOS DO SISTEMA UNICO DE SAUDE - SUS
+  valid_from: 2002-00
+  valid_to: 2018-12
+- cod: 23
+  seq: 1
+  desc: FUNDO DE MANUT.E DESENV.DO ENSINO FUNDAMENTAL-FUNDEF
+  valid_from: 2002-00
+  valid_to: 2006-12
+- cod: 23
+  seq: 2
+  desc: FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA - FUNDEB
+  valid_from: 2007-00
+  valid_to: 9999-12
+- cod: 24
+  seq: 1
+  desc: CONVENIOS, ACORDOS E AJUSTES
+  valid_from: 2002-00
+  valid_to: 2011-12
+- cod: 24
+  seq: 2
+  desc: CONVENIOS, ACORDOS E AJUSTES PROVENIENTES DA UNIAO E SUAS ENTIDADES
+  valid_from: 2012-00
+  valid_to: 2022-12
+- cod: 24
+  seq: 3
+  desc: CONVENIOS COM A UNIAO E SUAS ENTIDADES
+  valid_from: 2013-00
+  valid_to: 2018-12
+- cod: 24
+  seq: 4
+  desc: CONVENIOS COM A UNIAO E SUAS ENTIDADES - EXCETO EMENDAS INDIVIDUAIS E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 25
+  seq: 1
+  desc: OPERACOES DE CREDITO CONTRATUAIS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 26
+  seq: 1
+  desc: TAXA FLORESTAL
+  valid_from: 2002-00
+  valid_to: 2017-12
+- cod: 26
+  seq: 2
+  desc: TAXA FLORESTAL - ADMINISTRACAO INDIRETA
+  valid_from: 2018-00
+  valid_to: 9999-12
+- cod: 27
+  seq: 1
+  desc: TAXA DE SEGURANCA PUBLICA
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 28
+  seq: 1
+  desc: TAXA DE FISCALIZACAO JUDICIARIA
+  valid_from: 2002-00
+  valid_to: 2013-12
+- cod: 29
+  seq: 1
+  desc: TAXA DE EXPEDIENTE
+  valid_from: 2002-00
+  valid_to: 2017-12
+- cod: 29
+  seq: 2
+  desc: TAXA DE EXPEDIENTE - ADMINISTRACAO DIRETA
+  valid_from: 2018-00
+  valid_to: 9999-12
+- cod: 30
+  seq: 1
+  desc: CONTRIBUICAO A APOSENTADORIA
+  valid_from: 2002-00
+  valid_to: 2020-05
+- cod: 31
+  seq: 1
+  desc: UTILIZACAO DE RECURSOS HIDRICOS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 32
+  seq: 1
+  desc: EXPLORACAO DE RECURSOS MINERAIS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 33
+  seq: 1
+  desc: EXPLORACAO E PRODUCAO DE PETROLEO E GAS NATURAL
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 34
+  seq: 1
+  desc: NOTIFICACAO DE INFRACAO DE TRANSITO
+  valid_from: 2002-00
+  valid_to: 2015-12
+- cod: 35
+  seq: 1
+  desc: CONTRIBUICAO AO FUNDESE
+  valid_from: 2002-00
+  valid_to: 2009-12
+- cod: 36
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DA UNIAO VINCULADOS A EDUCACAO
+  valid_from: 2002-00
+  valid_to: 2022-12
+- cod: 36
+  seq: 2
+  desc: TRANSFERENCIAS DO FNDE VINCULADAS A EDUCACAO - EXCETO EMENDAS INDIVIDUAIS
+    E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 37
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 38
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS AO ESPORTE
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 39
+  seq: 1
+  desc: MULTAS PECUNIARIAS E JUROS DE MORA FIXADOS EM SENTENCAS JUDICIAIS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 40
+  seq: 1
+  desc: RECURSOS FUNDOS EXTINTOS-LEI NO 13.848/2001
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 42
+  seq: 1
+  desc: CONTRIBUICAO PATRONAL PARA CONFIP
+  valid_from: 2002-07
+  valid_to: 2003-12
+- cod: 42
+  seq: 2
+  desc: CONTRIBUICAO PATRONAL PARA O FUNFIP
+  valid_from: 2004-00
+  valid_to: 2019-12
+- cod: 42
+  seq: 3
+  desc: CONTRIBUICAO PATRONAL PARA O RPPS
+  valid_from: 2020-00
+  valid_to: 9999-12
+- cod: 43
+  seq: 1
+  desc: CONTRIBUICAO DO SERVIDOR PARA CONFIP
+  valid_from: 2002-07
+  valid_to: 2003-12
+- cod: 43
+  seq: 2
+  desc: CONTRIBUICAO DO SERVIDOR PARA O FUNFIP
+  valid_from: 2004-00
+  valid_to: 2019-12
+- cod: 43
+  seq: 3
+  desc: CONTRIBUICAO DO SERVIDOR PARA O RPPS
+  valid_from: 2020-00
+  valid_to: 9999-12
+- cod: 44
+  seq: 1
+  desc: COMPENSACAO FINANCEIRA ENTRE REGIMES DE PREVIDENCIA
+  valid_from: 2004-08
+  valid_to: 9999-12
+- cod: 45
+  seq: 1
+  desc: DOACOES DE PESSOAS, DE INSTITUICOES PRIVADAS OU DO EXTERIOR A ORGAO E ENTIDADES
+    DO ESTADO
+  valid_from: 2003-00
+  valid_to: 9999-12
+- cod: 46
+  seq: 1
+  desc: DOACOES DE PESSOAS, DE INSTITUICOES PRIVADAS OU DO EXTERIOR AO TESOURO ESTADUAL
+  valid_from: 2007-06
+  valid_to: 9999-12
+- cod: 47
+  seq: 1
+  desc: ALIENACAO DE BENS DE ENTIDADES ESTADUAIS
+  valid_from: 2004-00
+  valid_to: 9999-12
+- cod: 48
+  seq: 1
+  desc: ALIENACAO DE BENS DO TESOURO ESTADUAL
+  valid_from: 2004-00
+  valid_to: 9999-12
+- cod: 49
+  seq: 1
+  desc: CONTRIBUICAO PATRONAL DO ESTADO AOS INSTITUTOS DE PREVIDENCIA
+  valid_from: 2004-00
+  valid_to: 9999-12
+- cod: 50
+  seq: 1
+  desc: CONTRIBUICAO DO SERVIDOR DO ESTADO AOS INSTITUTOS DE PREVIDENCIA
+  valid_from: 2004-00
+  valid_to: 9999-12
+- cod: 51
+  seq: 1
+  desc: CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO/COMBUSTIVEIS-CIDE
+  valid_from: 2004-04
+  valid_to: 9999-12
+- cod: 52
+  seq: 1
+  desc: TAXA DE CONTROLE E FISCALIZACAO AMBIENTAL
+  valid_from: 2005-00
+  valid_to: 9999-12
+- cod: 53
+  seq: 1
+  desc: TAXA DE INCENDIO
+  valid_from: 2005-00
+  valid_to: 2022-12
+- cod: 54
+  seq: 1
+  desc: TAXA DE LICENCIAMENTO DA FAIXA DE DOMINIO DAS RODOVIAS
+  valid_from: 2005-09
+  valid_to: 9999-12
+- cod: 55
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DOS MUNICIPIOS VINCULADOS A FARMACIA BASICA - FES
+  valid_from: 2007-00
+  valid_to: 2018-12
+- cod: 56
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DA UNIAO VINCULADOS A ASSISTENCIA SOCIAL
+  valid_from: 2008-03
+  valid_to: 2022-12
+- cod: 56
+  seq: 2
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A ASSISTENCIA SOCIAL - EXCETO EMENDAS INDIVIDUAIS
+    E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 57
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DA UNIAO POR MEIO DE PORTARIA
+  valid_from: 2010-02
+  valid_to: 2022-12
+- cod: 57
+  seq: 2
+  desc: TRANSFERENCIAS DA UNIAO POR MEIO DE PORTARIA - EXCETO EMENDAS INDIVIDUAIS
+    E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 58
+  seq: 1
+  desc: RECURSOS PARA COBERTURA DO DEFICIT ATUARIAL DO RPPS
+  valid_from: 2011-03
+  valid_to: 2021-12
+- cod: 58
+  seq: 2
+  desc: RECURSOS PARA COBERTURA DE INSUFICIENCIA FINANCEIRA DO RPPS
+  valid_from: 2022-00
+  valid_to: 2022-12
+- cod: 59
+  seq: 1
+  desc: OUTROS RECURSOS VINCULADOS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 60
+  seq: 1
+  desc: RECURSOS DIRETAMENTE ARRECADADOS
+  valid_from: 2002-00
+  valid_to: 9999-12
+- cod: 61
+  seq: 1
+  desc: RECURSOS DIRETAMENTE ARRECADADOS COM VINCULACAO ESPECIFICA
+  valid_from: 2005-00
+  valid_to: 9999-12
+- cod: 62
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE - BLOCO MANUTENCAO - EMENDAS INDIVIDUAIS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 63
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE - BLOCO MANUTENCAO - EMENDAS DE
+    BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 64
+  seq: 1
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE - BLOCO ESTRUTURACAO - EMENDAS
+    INDIVIDUAIS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 66
+  seq: 1
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM OS ESTADOS E O DISTRITO FEDERAL
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 67
+  seq: 1
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM OS MUNICIPIOS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 68
+  seq: 1
+  desc: CONVENIOS COM AS INSTITUICOES PRIVADAS E OS ORGANISMOS DO EXTERIOR
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 69
+  seq: 1
+  desc: CONVENIOS COM OS ESTADOS E O DISTRITO FEDERAL
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 70
+  seq: 1
+  desc: CONVENIOS, ACORDOS E AJUSTES PROVENIENTES DOS MUNICIPIOS, ESTADOS E ORGANIZACOES
+    PARTICUL
+  valid_from: 2012-00
+  valid_to: 2012-12
+- cod: 70
+  seq: 2
+  desc: CONVENIOS COM OS ESTADOS, O DISTRITO FEDERAL, OS MUNICIPIOS, AS INSTITUICOES
+    PRIVADAS E OS ORGANISMO
+  valid_from: 2013-00
+  valid_to: 2022-12
+- cod: 70
+  seq: 3
+  desc: CONVENIOS COM OS MUNICIPIOS
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 71
+  seq: 1
+  desc: RECURSOS DO FUNDO ESTADUAL DE ERRADICACAO DA MISERIA
+  valid_from: 2012-02
+  valid_to: 2022-12
+- cod: 72
+  seq: 1
+  desc: TAXA DE FISCALIZACAO DE RECURSOS MINERARIOS
+  valid_from: 2012-05
+  valid_to: 9999-12
+- cod: 73
+  seq: 1
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM A UNIAO E SUAS ENTIDADES.
+  valid_from: 2013-00
+  valid_to: 2022-12
+- cod: 73
+  seq: 2
+  desc: ACORDOS, AJUSTES E DEMAIS INSTRUMENTOS DE COOPERACAO MUTUA COM A UNIAO E SUAS
+    ENTIDADES
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 74
+  seq: 1
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM OS ESTADOS, O DISTRITO FEDERAL,
+    OS MUNICIPIOS,
+  valid_from: 2013-00
+  valid_to: 2017-12
+- cod: 74
+  seq: 2
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM OS ESTADOS, O DISTRITO FEDERAL,
+    OS MUNICIPIOS, AS INSTITUI
+  valid_from: 2018-00
+  valid_to: 2022-12
+- cod: 74
+  seq: 3
+  desc: ACORDOS E AJUSTES DE COOPERACAO MUTUA COM AS INSTITUICOES PRIVADAS E OS ORGANISMOS
+    DO EXTERIOR
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 75
+  seq: 1
+  desc: CONTRIBUICAO PATRONAL PARA CUSTEIO DOS PROVENTOS DOS MILITARES
+  valid_from: 2012-12
+  valid_to: 2020-04
+- cod: 76
+  seq: 1
+  desc: TAXA DE ADMINISTRACAO DO FUNPEMG
+  valid_from: 2013-02
+  valid_to: 2014-00
+- cod: 77
+  seq: 1
+  desc: RECEITAS DE FISCALIZACAO, TAXAS E CUSTAS JUDICIAIS
+  valid_from: 2013-12
+  valid_to: 2017-12
+- cod: 77
+  seq: 2
+  desc: TAXA DE FISCALIZACAO JUDICIARIA E TAXAS E MULTAS JUDICIAIS
+  valid_from: 2018-00
+  valid_to: 9999-12
+- cod: 78
+  seq: 1
+  desc: CONTRIBUICAO MILITAR PARA CUSTEIO DO SISTEMA DE PROTECAO SOCIAL DOS MILITARES
+  valid_from: 2020-04
+  valid_to: 9999-12
+- cod: 81
+  seq: 1
+  desc: RECURSOS DE DEPOSITOS JUDICIAIS LEI 21.720/15
+  valid_from: 2015-09
+  valid_to: 2018-00
+- cod: 82
+  seq: 1
+  desc: NOTIFICACAO DE INFRACAO DE TRANSITO ESTADO
+  valid_from: 2016-00
+  valid_to: 9999-12
+- cod: 83
+  seq: 1
+  desc: NOTIFICACAO DE INFRACAO DE TRANSITO FUNTRANS
+  valid_from: 2016-00
+  valid_to: 9999-12
+- cod: 84
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DO SUS PARA A GESTAO DO SUS
+  valid_from: 2016-00
+  valid_to: 2018-12
+- cod: 85
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DO SUS PARA A VIGILANCIA EM SAUDE
+  valid_from: 2016-00
+  valid_to: 2018-12
+- cod: 86
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DO SUS PARA A ASSISTENCIA FARMACEUTICA
+  valid_from: 2016-00
+  valid_to: 2018-12
+- cod: 87
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DO SUS PARA A ATENCAO BASICA
+  valid_from: 2016-00
+  valid_to: 2018-08
+- cod: 88
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DO SUS PARA INVESTIMENTOS NA REDE DE SERVICOS DE
+    SAUDE
+  valid_from: 2016-02
+  valid_to: 2018-12
+- cod: 89
+  seq: 1
+  desc: RECURSOS DECORRENTES DA OPERACAO DE SECURITIZACAO DOS ATIVOS DO FECIDAT
+  valid_from: 2018-00
+  valid_to: 2019-00
+- cod: 91
+  seq: 1
+  desc: TAXA DE EXPEDIENTE - ADMINISTRACAO INDIRETA
+  valid_from: 2018-05
+  valid_to: 9999-12
+- cod: 92
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DA UNIAO VINCULADOS A SAUDE - BLOCO DE CUSTEIO
+  valid_from: 2019-00
+  valid_to: 2022-12
+- cod: 92
+  seq: 2
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE - BLOCO MANUTENCAO - EXCETO EMENDAS
+    INDIV. E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 93
+  seq: 1
+  desc: TRANSFERENCIAS DE RECURSOS DA UNIAO VINCULADOS A SAUDE - BLOCO DE INVESTIMENTO
+  valid_from: 2019-00
+  valid_to: 2022-11
+- cod: 93
+  seq: 2
+  desc: TRANSFERENCIAS DA UNIAO VINCULADAS A SAUDE - BLOCO ESTRUTURACAO - EXCETO EMENDAS
+    INDIV. E DE BANCADA
+  valid_from: 2023-00
+  valid_to: 9999-12
+- cod: 94
+  seq: 1
+  desc: TAXA FLORESTAL - ADMINISTRACAO DIRETA
+  valid_from: 2019-06
+  valid_to: 9999-12
+- cod: 95
+  seq: 1
+  desc: RECURSOS RECEBIDOS POR DANOS ADVINDOS DE DESASTRES SOCIOAMBIENTAIS
+  valid_from: 2019-02
+  valid_to: 9999-12
+- cod: 96
+  seq: 1
+  desc: BONUS DE ASSINATURA DO EXCEDENTE DA CESSAO ONEROSA PELA EXPLORACAO DO PRE-SAL
+  valid_from: 2019-12
+  valid_to: 2022-05
+- cod: 97
+  seq: 1
+  desc: TRANSFERENCIAS ESPECIAIS DE RECURSOS DA UNIAO
+  valid_from: 2020-10
+  valid_to: 9999-12
+- cod: 99
+  seq: 1
+  desc: AUXILIO FINANCEIRO RECEBIDO DA UNIAO PARA APLICACAO EM ACOES DE ENFRENTAMENTO
+    A COVID 19
+  valid_from: 2020-06
+  valid_to: 2021-08

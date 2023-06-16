@@ -1,8 +1,0 @@
-- cod: 10
-  desc: Recursos Ordinários
-  dt_inicio_vigencia: 2002-01
-  dt_fim_vigencia: 2023-01
-- cod: 10
-  desc: Recursos Não Vinculados
-  dt_inicio_vigencia: 2023-01
-  dt_fim_vigencia: 9999-12
