@@ -10,9 +10,8 @@ resources:
           type: string
         - name: Unidade Orçamentária - Código
           type: integer
-        - $ref: 2023-00/classificador/fonteRecurso/cod.json
+        - $ref: 2023-00/classificador/fonteRecurso/dist/cod.json
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - $ref: main/classificador/fonteRecurso/foreign_key.json
-          
+        - $ref: main/classificador/fonteRecurso/dist/foreign_key.json

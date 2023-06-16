@@ -2,8 +2,14 @@
   "resources": [
     {
       "name": "fonte_recurso",
-      "path": "data/fonte_recurso.csv",
-      "format": "csv",
+      "type": "table",
+      "path": "classificador/fonteRecurso/dist/data.json",
+      "format": "json",
+      "dialect": {
+        "json": {
+          "keyed": true
+        }
+      },
       "encoding": "utf-8",
       "schema": "schemas/temporal.json"
     }
