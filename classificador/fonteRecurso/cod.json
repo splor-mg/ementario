@@ -1,6 +1,6 @@
 {
   "name": "fonte_cod",
-  "title": "Fonte de Recurso - Código",
+  "title": "Fonte Recurso - Código",
   "type": "integer",
   "description": "A classificação por fonte de recursos (FR) tem como objetivo agrupar receitas que possuam as mesmas normas de aplicação na despesa.\n\nComo mecanismo integrador entre a receita e a despesa, o código de FR exerce um duplo papel no processo orçamentário. \nPara a receita orçamentária, esse código tem a finalidade de indicar a destinação de recursos para a realização de determinadas despesas orçamentárias. \nPara a despesa orçamentária, identifica a origem dos recursos que estão sendo utilizados.\n",
   "notes": [

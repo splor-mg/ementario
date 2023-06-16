@@ -1,5 +1,5 @@
 name: fonte_cod
-title: Fonte de Recurso - Código
+title: Fonte Recurso - Código
 type: integer
 description: |
   A classificação por fonte de recursos (FR) tem como objetivo agrupar receitas que possuam as mesmas normas de aplicação na despesa.
