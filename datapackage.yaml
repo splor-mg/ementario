@@ -1,0 +1,25 @@
+resources:
+  - name: exec_desp
+    path: exec_desp.xlsx
+    format: xlsx
+    dialect:
+      excel:
+        sheet: Relatório1
+    schema:
+      fields:
+        - name: Ano de Exercício
+          type: integer
+        - name: valid_ref
+          type: string
+        - name: Unidade Orçamentária - Código
+          type: integer
+        - $ref: https://raw.githubusercontent.com/splor-mg/ementario/dev/classificador/fonteRecurso/cod.json
+        - name: Valor Despesa Empenhada
+          type: number
+      temporalForeignKeys:
+        - fields: fonte_cod
+          reference:
+            fields:
+              - cod
+            resource: fonte-recurso
+            package: https://raw.githubusercontent.com/splor-mg/ementario/dev/datapackage.json
