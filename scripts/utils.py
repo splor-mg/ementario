@@ -27,8 +27,10 @@ def non_equi_join(tab1, tab2, field_tab1, field_tab2):
 
 def enrich_resource(resource):
     data = resource.read_rows()
-    foreign_key = resource.schema.custom['temporalForeignKeys'][0]
-    foreign_package = Package(foreign_key['reference']['package'])
-    foreign_resource_data = foreign_package.get_resource(foreign_key['reference']['resource']).read_rows()
-    result = non_equi_join(data, foreign_resource_data, 'fonte_cod', foreign_key['reference']['fields'][0])
+    for foreign_key in resource.schema.custom['temporalForeignKeys']:
+        foreign_package = Package(foreign_key['reference']['package'])
+        foreign_resource_name = foreign_key['reference']['resource']
+        foreign_resource_field_name = foreign_key['reference']['fields'][0]
+        foreign_resource_data = foreign_package.get_resource(foreign_resource_name).read_rows()
+        result = non_equi_join(data, foreign_resource_data, f'{foreign_resource_name}.{foreign_resource_field_name}', foreign_resource_field_name)
     return result

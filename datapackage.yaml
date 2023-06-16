@@ -8,10 +8,10 @@ resources:
           type: integer
         - name: valid_ref
           type: string
-        - name: Unidade Orçamentária - Código
-          type: integer
-        - $ref: 2023-00/classificador/fonteRecurso/dist/cod.json
+        - $ref: main/classificador/unidadeOrcamentaria/dist/cod.json
+        - $ref: main/classificador/fonteRecurso/dist/cod.json
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
+        - $ref: main/classificador/unidadeOrcamentaria/dist/foreign_key.json
         - $ref: main/classificador/fonteRecurso/dist/foreign_key.json
