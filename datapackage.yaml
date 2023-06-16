@@ -1,7 +1,10 @@
 resources:
   - name: exec_desp
-    path: exec_desp.csv
-    format: csv
+    path: exec_desp.xlsx
+    format: xlsx
+    dialect:
+      excel:
+        sheet: Relatório1
     schema:
       fields:
         - name: Ano de Exercício
@@ -14,4 +17,7 @@ resources:
         - name: Valor Despesa Empenhada
           type: number
       temporalForeignKeys:
-        - $ref: dev/classificador/fonteRecurso/foreign_key.json
+        - package: dev/datapackage.json
+          ForeignKey: 
+            $ref: dev/classificador/fonteRecurso/foreign_key.json
+          

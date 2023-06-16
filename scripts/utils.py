@@ -7,7 +7,7 @@ from decimal import Decimal
 def Package_dereference(path):
     with open(Path(path)) as fs:
         descriptor = yaml.safe_load(fs)
-    descriptor_deref = jsonref.replace_refs(descriptor, base_uri='https://raw.githubusercontent.com/splor-mg/ementario')
+    descriptor_deref = jsonref.replace_refs(descriptor, base_uri='https://raw.githubusercontent.com/splor-mg/ementario/')
     result = Package(descriptor_deref)
     return result
 
@@ -28,7 +28,7 @@ def non_equi_join(tab1, tab2, field_tab1, field_tab2):
 def enrich_resource(resource):
     data = resource.read_rows()
     foreign_key = resource.schema.custom['temporalForeignKeys'][0]
-    foreign_package = Package(foreign_key['reference']['package'])
-    foreign_resource_data = foreign_package.get_resource(foreign_key['reference']['resource']).read_rows()
-    result = non_equi_join(data, foreign_resource_data, 'fonte_cod', foreign_key['reference']['fields'][0])
+    foreign_package = Package(f'https://raw.githubusercontent.com/splor-mg/ementario/{foreign_key["package"]}')
+    foreign_resource_data = foreign_package.get_resource(foreign_key['ForeignKey']['reference']['resource']).read_rows()
+    result = non_equi_join(data, foreign_resource_data, 'fonte_cod', foreign_key['ForeignKey']['reference']['fields'][0])
     return result
