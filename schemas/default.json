@@ -1,0 +1,24 @@
+{
+    "fields": [
+      {
+        "name": "cod",
+        "type": "integer"
+      },
+      {
+        "name": "seq",
+        "type": "integer"
+      },
+      {
+        "name": "desc",
+        "type": "string"
+      },
+      {
+        "name": "valid_from",
+        "type": "string"
+      },
+      {
+        "name": "valid_to",
+        "type": "string"
+      }
+    ]
+  }

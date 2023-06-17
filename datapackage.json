@@ -10,7 +10,7 @@
           "keyed": true
         }
       },
-      "schema": "schemas/temporal.json"
+      "schema": "schemas/uo.json"
     },
     {
       "name": "fonte",
@@ -22,7 +22,7 @@
           "keyed": true
         }
       },
-      "schema": "schemas/temporal.json"
+      "schema": "schemas/default.json"
     }
   ]
 }
