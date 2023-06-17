@@ -1,4 +1,4 @@
-from scripts.utils import Package_dereference, enrich_resource
+from utils import Package_dereference, enrich_resource
 from rich import print as rprint
 
 package = Package_dereference('datapackage.yaml')

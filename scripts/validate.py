@@ -1,10 +1,9 @@
-from scripts.utils import Package_dereference
+from utils import Package_dereference
 from rich import print as rprint
 
 package = Package_dereference('datapackage.yaml')
 resource = package.get_resource('exec_desp')
 rprint(resource.schema.get_field('fonte_cod').description)
-rprint(resource.schema.get_field('fonte_desc').description)
 
 report = resource.validate()
 

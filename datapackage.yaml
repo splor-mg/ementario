@@ -6,8 +6,7 @@ resources:
       fields:
         - name: Ano de Exercício
           type: integer
-        - name: valid_ref
-          type: string
+        - $ref: main/classificador/periodRefValid.json
         - $ref: main/classificador/unidadeOrcamentaria/dist/cod.json
         - $ref: main/classificador/fonteRecurso/dist/cod.json
         - name: Valor Despesa Empenhada
