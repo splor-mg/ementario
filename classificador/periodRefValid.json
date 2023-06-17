@@ -1,0 +1,8 @@
+{
+    "name": "valid_ref",
+    "title": "Período de Referência",
+    "type": "string",
+    "constraints": {
+      "pattern": "\\d{4}-\\d{2}"
+    }
+  }
