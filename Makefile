@@ -1,4 +1,4 @@
-DIRECTORIES = fonteRecurso unidadeOrcamentaria
+DIRECTORIES = unidadeOrcamentaria funcao subfuncao programa acao categoriaEconomica grupoNatDespesa modalidadeAplicacao elementoDespesa elementoItemDespesa fonteRecurso identificadorProcedenciaUso
 
 JSON_TARGETS = cod.json desc.json foreign_key.json data.json
 
