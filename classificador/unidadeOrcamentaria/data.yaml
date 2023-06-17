@@ -1,882 +1,882 @@
 - cod: 1011
   seq: 1
   sigla: ALEMG
-  nome: ASSEMBLEIA LEGISLATIVA
+  desc: 'ASSEMBLEIA LEGISLATIVA'
   valid_from: 2002-01
   valid_to: 2018-12
 - cod: 1011
   seq: 2
   sigla: ALMG
-  nome: ASSEMBLEIA LEGISLATIVA
+  desc: 'ASSEMBLEIA LEGISLATIVA'
   valid_from: 2019-01
   valid_to: 2022-12
 - cod: 1021
   seq: 1
   sigla: TCEMG
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 1031
   seq: 1
   sigla: TJMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 1041
   seq: 1
   sigla: TAMG
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2005-06
 - cod: 1051
   seq: 1
   sigla: TJMMG
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 1071
   seq: 1
   sigla: GABINETE MILITAR
-  nome:
+  desc:
   valid_from: 2002-04
   valid_to: 2022-12
 - cod: 1081
   seq: 1
   sigla: AGE
-  nome:
+  desc:
   valid_from: 2004-04
   valid_to: 2004-04
 - cod: 1091
   seq: 1
   sigla: PGJ
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 1091
   seq: 2
   sigla: MPMG
-  nome:
+  desc:
   valid_from: 2019-01
   valid_to: 2020-12
 - cod: 1101
   seq: 1
   sigla: OGE
-  nome:
+  desc:
   valid_from: 2005-07
   valid_to: 2010-11
 - cod: 1171
   seq: 1
   sigla: SERHA
-  nome:
+  desc:
   valid_from: 2002-12
   valid_to: 2002-12
 - cod: 1191
   seq: 1
   sigla: SEF
-  nome:
+  desc:
   valid_from: 2002-07
   valid_to: 2022-12
 - cod: 1201
   seq: 1
   sigla: SEPLAN
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2002-12
 - cod: 1211
   seq: 1
   sigla: SEJ
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2003-12
 - cod: 1221
   seq: 1
   sigla: SECTES
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2016-12
 - cod: 1221
   seq: 2
   sigla: SEDECTES
-  nome:
+  desc:
   valid_from: 2017-02
   valid_to: 2018-12
 - cod: 1221
   seq: 3
   sigla: SEDE
-  nome:
+  desc:
   valid_from: 2019-02
   valid_to: 2022-12
 - cod: 1231
   seq: 1
   sigla: SEAPA
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 1241
   seq: 1
   sigla: SESP
-  nome:
+  desc:
   valid_from: 2002-04
   valid_to: 2002-12
 - cod: 1251
   seq: 1
   sigla: PMMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 1261
   seq: 1
   sigla: SEE
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 1271
   seq: 1
   sigla: SEC
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2018-12
 - cod: 1271
   seq: 2
   sigla: SECULT
-  nome:
+  desc:
   valid_from: 2019-06
   valid_to: 2022-12
 - cod: 1281
   seq: 1
   sigla: SEC.ESPORTES
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2003-02
 - cod: 1291
   seq: 1
   sigla: SME
-  nome:
+  desc:
   valid_from: 2002-05
   valid_to: 2002-12
 - cod: 1301
   seq: 1
   sigla: SETOP
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2018-12
 - cod: 1301
   seq: 2
   sigla: SEINFRA
-  nome:
+  desc:
   valid_from: 2019-01
   valid_to: 2022-12
 - cod: 1341
   seq: 1
   sigla: CAAPD
-  nome:
+  desc:
   valid_from: 2002-07
   valid_to: 2004-12
 - cod: 1371
   seq: 1
   sigla: SEMAD
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 1381
   seq: 1
   sigla: SETASCAD
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2003-10
 - cod: 1401
   seq: 1
   sigla: CBMMG
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 1411
   seq: 1
   sigla: SETUR
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2019-12
 - cod: 1411
   seq: 2
   sigla: SETES
-  nome:
+  desc:
   valid_from: 2014-02
   valid_to: 2014-12
 - cod: 1441
   seq: 1
   sigla: DEF PUB
-  nome:
+  desc:
   valid_from: 2005-02
   valid_to: 2022-12
 - cod: 1451
   seq: 1
   sigla: SEDS
-  nome:
+  desc:
   valid_from: 2003-04
   valid_to: 2016-12
 - cod: 1451
   seq: 2
   sigla: SEAP
-  nome:
+  desc:
   valid_from: 2017-01
   valid_to: 2018-12
 - cod: 1451
   seq: 3
   sigla: SEJUSP
-  nome:
+  desc:
   valid_from: 2019-01
   valid_to: 2022-12
 - cod: 1461
   seq: 1
   sigla: SEDE
-  nome:
+  desc:
   valid_from: 2005-05
   valid_to: 2014-03
 - cod: 1471
   seq: 1
   sigla: SEDRU
-  nome:
+  desc:
   valid_from: 2003-08
   valid_to: 2016-12
 - cod: 1471
   seq: 2
   sigla: SECIR
-  nome:
+  desc:
   valid_from: 2017-01
   valid_to: 2019-12
 - cod: 1481
   seq: 1
   sigla: SEDESE
-  nome:
+  desc:
   valid_from: 2003-04
   valid_to: 2022-12
 - cod: 1491
   seq: 1
   sigla: SEGOV
-  nome:
+  desc:
   valid_from: 2004-01
   valid_to: 2015-08
 - cod: 1501
   seq: 1
   sigla: SEPLAG
-  nome:
+  desc:
   valid_from: 2005-10
   valid_to: 2021-11
 - cod: 1511
   seq: 1
   sigla: PCMG
-  nome:
+  desc:
   valid_from: 2003-05
   valid_to: 2022-12
 - cod: 1531
   seq: 1
   sigla: SEEJ
-  nome:
+  desc:
   valid_from: 2007-07
   valid_to: 2013-12
 - cod: 1541
   seq: 1
   sigla: ESP MG
-  nome:
+  desc:
   valid_from: 2007-07
   valid_to: 2022-12
 - cod: 1581
   seq: 1
   sigla: SETE
-  nome:
+  desc:
   valid_from: 2011-05
   valid_to: 2013-12
 - cod: 1591
   seq: 1
   sigla: SEDVAN
-  nome:
+  desc:
   valid_from: 2012-08
   valid_to: 2013-12
 - cod: 1591
   seq: 2
   sigla: SEDINOR
-  nome:
+  desc:
   valid_from: 2014-02
   valid_to: 2019-12
 - cod: 1601
   seq: 1
   sigla: EPE
-  nome:
+  desc:
   valid_from: 2012-08
   valid_to: 2014-08
 - cod: 1631
   seq: 1
   sigla: SEC. GERAL
-  nome:
+  desc:
   valid_from: 2016-12
   valid_to: 2019-12
 - cod: 1641
   seq: 1
   sigla: SEDA
-  nome:
+  desc:
   valid_from: 2015-10
   valid_to: 2019-12
 - cod: 1651
   seq: 1
   sigla: SEDPAC
-  nome:
+  desc:
   valid_from: 2015-10
   valid_to: 2019-12
 - cod: 1671
   seq: 1
   sigla: SEESP
-  nome:
+  desc:
   valid_from: 2015-06
   valid_to: 2019-12
 - cod: 1691
   seq: 1
   sigla: SESP
-  nome:
+  desc:
   valid_from: 2017-04
   valid_to: 2019-12
 - cod: 1701
   seq: 1
   sigla: SEEDIF
-  nome:
+  desc:
   valid_from: 2018-12
   valid_to: 2018-12
 - cod: 1911
   seq: 1
   sigla: EGE - SEF
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2015-11
 - cod: 1915
   seq: 1
   sigla: TRANSF EMPRESAS
-  nome:
+  desc:
   valid_from: 2004-12
   valid_to: 2008-12
 - cod: 1921
   seq: 1
   sigla: SEPLAN/PROG.DIVERSOS
-  nome:
+  desc:
   valid_from: 2002-12
   valid_to: 2002-12
 - cod: 1941
   seq: 1
   sigla: EGE-SEPLAG
-  nome:
+  desc:
   valid_from: 2005-05
   valid_to: 2005-05
 - cod: 2011
   seq: 1
   sigla: IPSEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2041
   seq: 1
   sigla: LEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2061
   seq: 1
   sigla: FJP
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2071
   seq: 1
   sigla: FAPEMIG
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2022-12
 - cod: 2081
   seq: 1
   sigla: CETEC
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2013-12
 - cod: 2091
   seq: 1
   sigla: FEAM
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2101
   seq: 1
   sigla: IEF
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2111
   seq: 1
   sigla: RURALMINAS
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2016-12
 - cod: 2121
   seq: 1
   sigla: IPSM
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2141
   seq: 1
   sigla: DEOP
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2016-12
 - cod: 2151
   seq: 1
   sigla: FHA
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2161
   seq: 1
   sigla: FUCAM
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2021-12
 - cod: 2171
   seq: 1
   sigla: FAOP
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 2181
   seq: 1
   sigla: FCS
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2201
   seq: 1
   sigla: IEPHA
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 2211
   seq: 1
   sigla: TV MINAS
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2231
   seq: 1
   sigla: ADEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2013-12
 - cod: 2241
   seq: 1
   sigla: IGAM
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2251
   seq: 1
   sigla: JUCEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2261
   seq: 1
   sigla: FUNED
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 2271
   seq: 1
   sigla: FHEMIG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2281
   seq: 1
   sigla: UTRAMIG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2301
   seq: 1
   sigla: DER/MG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2016-12
 - cod: 2301
   seq: 2
   sigla: DEER-MG
-  nome:
+  desc:
   valid_from: 2017-01
   valid_to: 2019-12
 - cod: 2301
   seq: 3
   sigla: DER-MG
-  nome:
+  desc:
   valid_from: 2020-01
   valid_to: 2022-12
 - cod: 2311
   seq: 1
   sigla: UNIMONTES
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2321
   seq: 1
   sigla: HEMOMINAS
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2331
   seq: 1
   sigla: IPEMMG
-  nome:
+  desc:
   valid_from: 2002-04
   valid_to: 2022-12
 - cod: 2351
   seq: 1
   sigla: UEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2361
   seq: 1
   sigla: IPLEMG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2371
   seq: 1
   sigla: IMA
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 2381
   seq: 1
   sigla: DETEL
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2018-11
 - cod: 2391
   seq: 1
   sigla: IO/MG
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2016-12
 - cod: 2401
   seq: 1
   sigla: IGA
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2013-12
 - cod: 2401
   seq: 2
   sigla: IGTEC
-  nome:
+  desc:
   valid_from: 2014-01
   valid_to: 2016-12
 - cod: 2411
   seq: 1
   sigla: ITER
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2013-12
 - cod: 2421
   seq: 1
   sigla: IDENE
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2022-12
 - cod: 2431
   seq: 1
   sigla: AGENCIA RMBH
-  nome:
+  desc:
   valid_from: 2011-03
   valid_to: 2022-12
 - cod: 2441
   seq: 1
   sigla: ARSAE -MG
-  nome:
+  desc:
   valid_from: 2010-03
   valid_to: 2022-12
 - cod: 2451
   seq: 1
   sigla: HIDROEX
-  nome:
+  desc:
   valid_from: 2011-12
   valid_to: 2016-12
 - cod: 2461
   seq: 1
   sigla: ARMVA
-  nome:
+  desc:
   valid_from: 2012-07
   valid_to: 2022-12
 - cod: 3041
   seq: 1
   sigla: EMATER
-  nome:
+  desc:
   valid_from: 2003-12
   valid_to: 2022-12
 - cod: 3051
   seq: 1
   sigla: EPAMIG
-  nome:
+  desc:
   valid_from: 2003-12
   valid_to: 2022-12
 - cod: 3111
   seq: 1
   sigla: TURMINAS
-  nome:
+  desc:
   valid_from: 2003-12
   valid_to: 2004-05
 - cod: 3151
   seq: 1
   sigla: RADIO
-  nome:
+  desc:
   valid_from: 2003-12
   valid_to: 2016-12
 - cod: 3151
   seq: 2
   sigla: EMC
-  nome:
+  desc:
   valid_from: 2017-01
   valid_to: 2022-12
 - cod: 4011
   seq: 1
   sigla: FDMM
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2006-12
 - cod: 4031
   seq: 1
   sigla: FEPJ
-  nome:
+  desc:
   valid_from: 2013-12
   valid_to: 2022-12
 - cod: 4041
   seq: 1
   sigla: FUNDO JAIBA
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2017-11
 - cod: 4051
   seq: 1
   sigla: FIND
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2006-12
 - cod: 4061
   seq: 1
   sigla: FUNDO PRO-FLORESTA
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2017-11
 - cod: 4091
   seq: 1
   sigla: FIA
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 4101
   seq: 1
   sigla: FEH
-  nome:
+  desc:
   valid_from: 2002-02
   valid_to: 2022-12
 - cod: 4111
   seq: 1
   sigla: FUNDESE
-  nome:
+  desc:
   valid_from: 2002-09
   valid_to: 2022-12
 - cod: 4121
   seq: 1
   sigla: FUNDHAB
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 4141
   seq: 1
   sigla: FPE
-  nome:
+  desc:
   valid_from: 2007-07
   valid_to: 2022-12
 - cod: 4151
   seq: 1
   sigla: FASTUR
-  nome:
+  desc:
   valid_from: 2010-12
   valid_to: 2015-10
 - cod: 4171
   seq: 1
   sigla: FUNDERUR
-  nome:
+  desc:
   valid_from: 2004-04
   valid_to: 2022-12
 - cod: 4251
   seq: 1
   sigla: FEAS
-  nome:
+  desc:
   valid_from: 2002-03
   valid_to: 2022-12
 - cod: 4261
   seq: 1
   sigla: FUNDIEST
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2006-12
 - cod: 4291
   seq: 1
   sigla: FES
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 4321
   seq: 1
   sigla: FUNPREN
-  nome:
+  desc:
   valid_from: 2004-09
   valid_to: 2006-12
 - cod: 4331
   seq: 1
   sigla: FDM
-  nome:
+  desc:
   valid_from: 2009-09
   valid_to: 2022-12
 - cod: 4341
   seq: 1
   sigla: FHIDRO
-  nome:
+  desc:
   valid_from: 2010-12
   valid_to: 2022-12
 - cod: 4381
   seq: 1
   sigla: FUNTRANS
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
 - cod: 4421
   seq: 1
   sigla: FUNDIF
-  nome:
+  desc:
   valid_from: 2004-12
   valid_to: 2022-12
 - cod: 4431
   seq: 1
   sigla: FUNPEMG
-  nome:
+  desc:
   valid_from: 2002-10
   valid_to: 2013-12
 - cod: 4441
   seq: 1
   sigla: FUNEMP
-  nome:
+  desc:
   valid_from: 2004-09
   valid_to: 2022-12
 - cod: 4451
   seq: 1
   sigla: FEPDC
-  nome:
+  desc:
   valid_from: 2004-08
   valid_to: 2022-12
 - cod: 4461
   seq: 1
   sigla: FUNFIP
-  nome:
+  desc:
   valid_from: 2004-02
   valid_to: 2020-12
 - cod: 4471
   seq: 1
   sigla: FUNDOMAQ
-  nome:
+  desc:
   valid_from: 2006-01
   valid_to: 2007-12
 - cod: 4491
   seq: 1
   sigla: FEC
-  nome:
+  desc:
   valid_from: 2007-12
   valid_to: 2022-12
 - cod: 4501
   seq: 1
   sigla: FUNDO DE EQUALIZACAO
-  nome:
+  desc:
   valid_from: 2009-12
   valid_to: 2017-11
 - cod: 4511
   seq: 1
   sigla: FINDES
-  nome:
+  desc:
   valid_from: 2007-01
   valid_to: 2017-11
 - cod: 4541
   seq: 1
   sigla: FAHMEMG
-  nome:
+  desc:
   valid_from: 2009-12
   valid_to: 2022-12
 - cod: 4551
   seq: 1
   sigla: FUNAPEC
-  nome:
+  desc:
   valid_from: 2010-01
   valid_to: 2022-12
 - cod: 4571
   seq: 1
   sigla: FECIFIM
-  nome:
+  desc:
   valid_from: 2014-07
   valid_to: 2015-04
 - cod: 4601
   seq: 1
   sigla: FEI
-  nome:
+  desc:
   valid_from: 2015-12
   valid_to: 2022-12
 - cod: 4611
   seq: 1
   sigla: FUNCONTAS
-  nome:
+  desc:
   valid_from: 2018-01
   valid_to: 2022-12
 - cod: 4621
   seq: 1
   sigla: MG INVESTE
-  nome:
+  desc:
   valid_from: 2018-12
   valid_to: 2022-12
 - cod: 4631
   seq: 1
   sigla: FPP - MG
-  nome:
+  desc:
   valid_from: 2018-12
   valid_to: 2022-12
 - cod: 4661
   seq: 1
   sigla: FAIMG
-  nome:
+  desc:
   valid_from: 2020-12
   valid_to: 2022-12
 - cod: 4691
   seq: 1
   sigla: FESP-MG
-  nome:
+  desc:
   valid_from: 2020-05
   valid_to: 2022-12
 - cod: 4701
   seq: 1
   sigla: FET-MG
-  nome:
+  desc:
   valid_from: 2022-03
   valid_to: 2022-12
 - cod: 4711
   seq: 1
   sigla: FFP - MG
-  nome:
+  desc:
   valid_from: 2021-01
   valid_to: 2022-12
 - cod: 9999
   seq: 1
   sigla: EMG - ADM. DIRETA
-  nome:
+  desc:
   valid_from: 2002-01
   valid_to: 2022-12
