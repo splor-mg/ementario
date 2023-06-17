@@ -4,9 +4,9 @@ resources:
     format: xlsx
     schema:
       fields:
+        - $ref: main/classificador/periodRefValid.json
         - name: Ano de Exercício
           type: integer
-        - $ref: main/classificador/periodRefValid.json
         - $ref: main/classificador/unidadeOrcamentaria/dist/cod.json
         - $ref: main/classificador/fonteRecurso/dist/cod.json
         - name: Valor Despesa Empenhada

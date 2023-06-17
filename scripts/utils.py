@@ -28,7 +28,7 @@ def non_equi_join(x, y, key, key_y, resource):
                 desc = {f'{resource}_{field}':row_y[field] for field in fields}
                 yield {**row, **desc}
                 matched = True
-                break  # we found a match, so we can stop looking in tab2 for this record
+                break
         if not matched:
                 desc = {f'{resource}_{field}':None for field in fields}
                 yield {**row, **desc}
